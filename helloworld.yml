@@ -1,32 +1,6 @@
 ---
 - name: Hello World!
-  hosts: all
- 
-  tasks:
- 
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-    
-
-- name: Hello World!
-  hosts: all
- 
-  tasks:
- 
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-    
-
-- name: Hello World!
-  hosts: all
- 
-  tasks:
- 
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-    
-
-- name: Hello World!
+  connection: local
   hosts: all
  
   tasks:
