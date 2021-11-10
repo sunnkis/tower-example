@@ -21,7 +21,7 @@
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Sleep
-    shell: sleep 5s
+    shell: sleep 5m
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
