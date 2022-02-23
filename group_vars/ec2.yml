@@ -1,0 +1,7 @@
+---
+key_name: seungyoon-2
+region: ap-northeast-2
+image: ami-01af223aa7f274198
+sec_group: sg-03252da9fdcf08949
+vpc_subnet_id: subnet-1af11756
+instance_name: Test by DevOS Provisioning (ansible)
