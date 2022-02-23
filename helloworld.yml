@@ -20,26 +20,6 @@
     shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 5s
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 15s
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
@@ -62,26 +42,6 @@
     shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 5s
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 15s
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
@@ -104,8 +64,6 @@
     shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 5s
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
@@ -128,8 +86,6 @@
     shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 5s
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
@@ -152,8 +108,194 @@
     shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
-  - name: Sleep
-    shell: sleep 5s
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
+  - name: Hello World!
+    shell: echo "Hi! Tower is working."
   - name: Hello World!
     shell: echo "Hi! Tower is working."
   - name: Hello World!
